@@ -46,22 +46,22 @@ https://drive.google.com/file/d/16veJKX6q_cbfdOsEARoaUSOjWIiAzvZ3/view?usp=drive
 
 ## 📸 Screenshots
 
-### 🏠 Home Page  
+### 🏠 graph Page  
 ![Home](./Screenshot%202026-04-13%20092815.png)
 
 <br>
 
-### 📝 Task Page  
+### 📝 Timetable Page  
 ![Task](./Screenshot%202026-04-13%20092841.png)
 
 <br>
 
-### 📊 Graph Page  
+### 📊 Tasks Page  
 ![Graph](./Screenshot%202026-04-13%20093035.png)
 
 <br>
 
-### 📅 Timetable Page  
+### 📅 Home Page  
 ![Timetable](./Screenshot%202026-04-13%20123826.png)
 ---
 

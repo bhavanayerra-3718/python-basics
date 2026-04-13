@@ -44,10 +44,10 @@ https://drive.google.com/file/d/16veJKX6q_cbfdOsEARoaUSOjWIiAzvZ3/view?usp=drive
 
 📸 Screenshots
 
-![Home](screenshot 2026-04-13 123826.png)
-![Tasks](screenshot 2026-04-13 093035.png)
-![Graph](screenshot 2026-04-13 092815.png)
-![Timetable](screenshot 2026-04-13 092841.png)
+![Home](Screenshot 2026-04-13 123826.png)
+![Tasks](Screenshot 2026-04-13 093035.png)
+![Graph](Screenshot 2026-04-13 092815.png)
+![Timetable](Screenshot 2026-04-13 092841.png)
 
 ---
 

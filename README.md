@@ -44,18 +44,25 @@ https://drive.google.com/file/d/16veJKX6q_cbfdOsEARoaUSOjWIiAzvZ3/view?usp=drive
 
 📸 Screenshots
 
-### Home Page
-![Home](Screenshot 2026-04-13 092815.png)
+## 📸 Screenshots
 
-### Task Page
-![Task](Screenshot 2026-04-13 092841.png)
+### 🏠 Home Page  
+![Home](./Screenshot%202026-04-13%20092815.png)
 
-### Graph Page
-![Graph](Screenshot 2026-04-13 093035.png)
+<br>
 
-### Timetable Page
-![Timetable](Screenshot 2026-04-13 123826.png)
+### 📝 Task Page  
+![Task](./Screenshot%202026-04-13%20092841.png)
 
+<br>
+
+### 📊 Graph Page  
+![Graph](./Screenshot%202026-04-13%20093035.png)
+
+<br>
+
+### 📅 Timetable Page  
+![Timetable](./Screenshot%202026-04-13%20123826.png)
 ---
 
 📌 How to Run

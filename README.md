@@ -44,10 +44,17 @@ https://drive.google.com/file/d/16veJKX6q_cbfdOsEARoaUSOjWIiAzvZ3/view?usp=drive
 
 📸 Screenshots
 
-![Home](Screenshot 2026-04-13 123826.png)
-![Tasks](Screenshot 2026-04-13 093035.png)
-![Graph](Screenshot 2026-04-13 092815.png)
-![Timetable](Screenshot 2026-04-13 092841.png)
+### Home Page
+![Home](Screenshot 2026-04-13 092815.png)
+
+### Task Page
+![Task](Screenshot 2026-04-13 092841.png)
+
+### Graph Page
+![Graph](Screenshot 2026-04-13 093035.png)
+
+### Timetable Page
+![Timetable](Screenshot 2026-04-13 123826.png)
 
 ---
 

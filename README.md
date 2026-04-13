@@ -38,7 +38,7 @@ This project is designed to help students manage their daily tasks more effectiv
 
 🎥 Demo Video
 
-(Add your Google Drive or YouTube link here)
+https://drive.google.com/file/d/16veJKX6q_cbfdOsEARoaUSOjWIiAzvZ3/view?usp=drivesdk
 
 ---
 
